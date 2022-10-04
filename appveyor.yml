@@ -4,9 +4,9 @@ stack: jdk 11
 
 branches:
   only:
-    - main
+    - master
 
-build: false
+build: off
 
 install:
   - java -jar ./artifacts/app-mbank.jar &
