@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a88c6fs5pthbht7r?svg=true)](https://ci.appveyor.com/project/Svetlana/rest)
+[![Build status](https://ci.appveyor.com/api/projects/status/xi34lgp3md2mji3k?svg=true)](https://ci.appveyor.com/project/SvetlanaSvetina/rest)
